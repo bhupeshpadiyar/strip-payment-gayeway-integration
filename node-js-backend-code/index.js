@@ -1,5 +1,5 @@
 // Import Stripe
-const stripe = require('stripe')('sk_test_51HeebsDPkWxsnwhp4TwRNIABpmDyEs5rnCgNUL0cY2fJhYig6CzVFB5cQANbHzIgEMPYy8KwzN6qQ7sDY9Yxq4da00Qk4yQVXZ');
+const stripe = require('stripe')('<your_secret_key_here>');
 // Import express
 let express = require('express')
 
